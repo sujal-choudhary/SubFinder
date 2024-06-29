@@ -20,7 +20,7 @@ Subdomain Finder is a Python script that utilizes asyncio to asynchronously disc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sujal-choudhary/subdomain-finder.git
+   git clone https://github.com/sujal-choudhary/SubFinder.git
    cd SubFinder
    ```
 
